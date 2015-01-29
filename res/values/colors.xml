@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_grey">#eeeeee</color>
+    <color name="background_grey_m">#777777</color>
+    <color name="background_write">#ffffff</color>
+    <color name="tile_red">#e51400</color>
+    <color name="tile_green">#349933</color>
+    <color name="tile_blue">#1ca1e2</color>
+    <color name="tile_purple">#6f155f</color>
+    <color name="tile_orange">#df9319</color>
+    <color name="base_grey">#46485f</color>
+    <color name="base_grey_in">#767996</color>
+    <color name="base_write">#FFFFFF</color>
+    <color name="base_write_in">#EEEEEE</color>
+    <color name="base_write_in_in">#BBBBBB</color>
+    <color name="red">#F2837B</color>
+    <color name="dark_red">#ffa02d38</color>
+</resources>
